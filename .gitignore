@@ -1,0 +1,4 @@
+# Project exclude paths
+/Calculator/node_modules/
+/Prompt-Sync/node_modules/
+/Quiz/node_modules/
